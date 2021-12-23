@@ -1,0 +1,1 @@
+CREATE TABLE `searcservices`.`searchtable` ( `id` BIGINT NOT NULL AUTO_INCREMENT , `Text` VARCHAR NOT NULL , `SearchLink` VARCHAR NOT NULL , `Thumbnail` VARCHAR NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
